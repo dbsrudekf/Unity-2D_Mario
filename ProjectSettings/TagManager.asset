@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - ItemWall
+  - MushRoomItem
+  - MonsterMushroom
+  - MonsterTurtle
+  - Obstacle
+  - FireFlowerItem
+  - Flag
+  - Castle
+  - Coin
+  - BossMonster
+  - Bridge
+  - FrontBossLine
+  - BackBossLine
+  - BossBullet
+  - CoinWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - Floor
+  - Obstacle
+  - Object
+  - Enemy
+  - TurtleEnemyDeath
+  - Bullet
+  - BossMoveLine
+  - BossBullet
+  - MushroomItem
+  - FlowerItem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
